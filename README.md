@@ -29,6 +29,4 @@
 
 - 🖥️ Recentemente, trabalhei como Analista de infraestrutura de TI com ênfase em Servidores Linux 💻
 - ☕ Estudando Java ☕ e OracleDB
-- 📩 Contate-me no email: mateusb.bispo@gmail.com
-- 📱 Whatsapp: 55 81998964394 
 
