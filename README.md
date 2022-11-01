@@ -16,12 +16,9 @@
   <img align="center" alt="Mateus-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Mateus-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mateus-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--   databases   -->
-🛢 Databases
- 
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,dynamodb" />
+    <img src="https://skillicons.dev/icons?i=mongo" />
   </a>
 </p>
 </div>
