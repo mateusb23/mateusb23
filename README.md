@@ -30,5 +30,5 @@
 </div>
 
 - 🖥️ Recentemente, trabalhei como Analista de infraestrutura de TI com ênfase em Servidores Linux 💻
-- ☕ Estudando Java ☕ e OracleDB
+- ☕ Estudando Java com JPA + Hibernate, Spring e OracleDB(PLSQL)
 
