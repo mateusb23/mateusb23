@@ -29,6 +29,6 @@
   
 </div>
 
-- 🖥️ Recentemente, trabalhei como Analista de infraestrutura de TI com ênfase em Servidores Linux 💻
-- ☕ Estudando Java com JPA + Hibernate, Spring e OracleDB(PLSQL)
+- 🖥️ I recently worked as an IT Infrastructure Analyst with an emphasis on Linux Servers 💻
+- ☕ I'm studying Java with JPA + Hibernate, Spring and Oracle(PL SQL)
 
