@@ -1,5 +1,6 @@
-### Hi there, my name is Mateus Santos Bispo 👋
-#### I am passionate about technology and will always be looking to be a better person, in addition to always being an eternal student.
+##                                              Hi there, my name is Mateus Santos Bispo 👋
+###
+###    I am passionate about technology and will always be looking to be a better person, in addition to always being an eternal student.
 <div align="center">
   <a href="https://github.com/mateusb23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusb23&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
