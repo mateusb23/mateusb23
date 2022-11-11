@@ -31,6 +31,6 @@
   
 </div>
 
-## - 🖥️ I recently worked as an IT Infrastructure Analyst with an emphasis on Linux Servers 💻
-### - ☕ I'm studying Java with JPA + Hibernate, Spring and Oracle(PL SQL)
+### - 🖥️ I recently worked as an IT Infrastructure Analyst with an emphasis on Linux Servers 💻
+#### - ☕ I'm studying Java with JPA + Hibernate, Spring and Oracle(PL SQL)
 
